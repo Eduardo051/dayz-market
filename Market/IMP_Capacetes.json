@@ -50,7 +50,7 @@
 			"IMP_Helmet_Altyn_UCP",
 			"IMP_Helmet_Altyn_MARPAT"]},
 		{ "ClassName": "IMP_Helmet_AM95_Green",				"MaxPriceThreshold": 5000,	"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "IMP_KillaHelmet_Black",				"MaxPriceThreshold": 10000,	"MinPriceThreshold": 10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["IMP_KillaHelmet_Green"]},
+		{ "ClassName": "IMP_KillaHelmet_Black",				"MaxPriceThreshold":10000,	"MinPriceThreshold": 10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["IMP_KillaHelmet_Green"]},
 		{ "ClassName": "IMP_Helmet_Heavy_Dominator2_Green",	"MaxPriceThreshold": 5000,	"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["IMP_Helmet_Heavy_Dominator2_Flecktarn",
 			"IMP_Helmet_Heavy_Dominator2_Grey",
 			"IMP_Helmet_Heavy_Dominator2_Multicam",
