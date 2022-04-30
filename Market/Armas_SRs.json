@@ -5,17 +5,16 @@
 	"Color": "FBFCFEFF",
 	"InitStockPercent": 75.0,
 	"Items": [
-		{ "ClassName": "mosin9130",				"MaxPriceThreshold": 800,	"MinPriceThreshold": 400,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "winchester70",			"MaxPriceThreshold": 1000,	"MinPriceThreshold": 500,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "b95",					"MaxPriceThreshold": 3400,	"MinPriceThreshold": 1700,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "TTC_kar98k",			"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "TTC_R700",				"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "TTC_M24",				"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M24_Bjorn",	"TTC_M24_Woodland",	"TTC_M24_WoodlandOld"]},
-		{ "ClassName": "TTC_LeeEnfield",		"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "TTC_M1Garand",			"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "TTC_XM2010",			"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "TTC_R700_Black",		"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "TTC_M24_NEW_Wood",		"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M24_NEW_Black",	"TTC_M24_NEW_Camo",	"TTC_M24_NEW_CamoW"]},
-		{ "ClassName": "TTC_GEVAR43",			"MaxPriceThreshold":10000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_GEVAR43_Green",	"TTC_GEVAR43_Tan",	"TTC_GEVAR43_silver"]}
+		{ "ClassName": "mosin9130",				"MaxPriceThreshold":35000,	"MinPriceThreshold":35000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "winchester70",			"MaxPriceThreshold":20000,	"MinPriceThreshold":20000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "b95",					"MaxPriceThreshold":35000,	"MinPriceThreshold":35000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_kar98k",			"MaxPriceThreshold":35000,	"MinPriceThreshold":35000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_R700",				"MaxPriceThreshold":35000,	"MinPriceThreshold":35000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_M24",				"MaxPriceThreshold":35000,	"MinPriceThreshold":35000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M24_Bjorn",	"TTC_M24_Woodland",	"TTC_M24_WoodlandOld"]},
+		{ "ClassName": "TTC_LeeEnfield",		"MaxPriceThreshold":40000,	"MinPriceThreshold":40000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_M1Garand",			"MaxPriceThreshold":60000,	"MinPriceThreshold":60000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_XM2010",			"MaxPriceThreshold":60000,	"MinPriceThreshold":60000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_R700_Black",		"MaxPriceThreshold":60000,	"MinPriceThreshold":60000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_M24_NEW_Wood",		"MaxPriceThreshold":120000,	"MinPriceThreshold":120000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M24_NEW_Black",	"TTC_M24_NEW_Camo",	"TTC_M24_NEW_CamoW"]}
 	]
 }
