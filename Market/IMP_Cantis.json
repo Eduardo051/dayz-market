@@ -1,0 +1,17 @@
+{
+	"m_Version": 9,
+	"DisplayName": "Cantis",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "IMP_Bottle_BottlePouch_Green",			"MaxPriceThreshold": 600,	"MinPriceThreshold": 600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Bottle_BottlePouch_Desert",			"MaxPriceThreshold": 600,	"MinPriceThreshold": 600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Bottle_BottlePouch_Black",			"MaxPriceThreshold": 600,	"MinPriceThreshold": 600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Bottle_BottlePouch_Woodland",		"MaxPriceThreshold": 600,	"MinPriceThreshold": 600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Bottle_BottlePouch_UCP",			"MaxPriceThreshold": 600,	"MinPriceThreshold": 600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Bottle_BottlePouch_EMR",			"MaxPriceThreshold": 600,	"MinPriceThreshold": 600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Bottle_BottlePouch_NWU",			"MaxPriceThreshold": 600,	"MinPriceThreshold": 600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Bottle_BottlePouch_MARPAT",			"MaxPriceThreshold": 600,	"MinPriceThreshold": 600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []}
+	]
+}

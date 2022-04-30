@@ -1,0 +1,34 @@
+{
+	"m_Version": 9,
+	"DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BANDANAS",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "bandana_blue","MaxPriceThreshold": 12,"MinPriceThreshold": 6,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["bandana_pink",
+			"bandana_yellow",
+			"bandana_redpattern",
+			"bandana_blackpattern",
+			"bandana_polkapattern"]},
+		{ "ClassName": "EXD_Gear_FullShemagh_Black","MaxPriceThreshold":	200,"MinPriceThreshold": 200,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["EXD_FullShemagh_Jade",
+			"EXD_Gear_FullShemagh_Khaki",
+			"EXD_Gear_FullShemagh_Olive",
+			"EXD_Gear_FullShemagh_Tan",
+			"EXD_Gear_FullShemagh_White",
+			"EXD_Gear_FullShemagh_Sand"]},
+		{ "ClassName": "EXD_Gear_FaceMaskShemagh_Black","MaxPriceThreshold":	200,"MinPriceThreshold": 200,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["EXD_FaceMaskShemagh_Jade",
+			"EXD_Gear_FaceMaskShemagh_Khaki",
+			"EXD_Gear_FaceMaskShemagh_Olive",
+			"EXD_Gear_FaceMaskShemagh_Tan",
+			"EXD_Gear_FaceMaskShemagh_White",
+			"EXD_Gear_FaceMaskShemagh_Sand"]},
+		{ "ClassName": "EXD_Gear_ScarfShemagh_Black","MaxPriceThreshold":	200,"MinPriceThreshold": 200,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["EXD_ScarfShemagh_Black",
+			"EXD_Gear_ScarfShemagh_Jade",
+			"EXD_Gear_ScarfShemagh_Khaki",
+			"EXD_Gear_ScarfShemagh_Olive",
+			"EXD_Gear_ScarfShemagh_Tan",
+			"EXD_Gear_ScarfShemagh_White",
+			"EXD_Gear_ScarfShemagh_Sand"]
+		}
+	]
+}

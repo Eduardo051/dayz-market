@@ -1,0 +1,19 @@
+{
+	"m_Version": 9,
+	"DisplayName": "6 - DMR's",
+	"Icon": "Shotgun",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "vss",			"MaxPriceThreshold": 3200,"MinPriceThreshold": 1600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": ["mag_vss_10rnd"],"Variants": []},
+		{ "ClassName": "asval",			"MaxPriceThreshold": 3200,"MinPriceThreshold": 1600,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": ["mag_val_20rnd"],"Variants": []},
+		{ "ClassName": "svd",			"MaxPriceThreshold": 4000,"MinPriceThreshold": 2000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": ["mag_svd_10rnd"],"Variants": []},
+		{ "ClassName": "TTC_FD338",		"MaxPriceThreshold":10000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_Beowulf",	"MaxPriceThreshold":10000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_M82",		"MaxPriceThreshold":10000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M82_Tan"]},
+		{ "ClassName": "TTC_M14",		"MaxPriceThreshold":10000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_MRAD",		"MaxPriceThreshold":10000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_M14_Camo",	"MaxPriceThreshold":10000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M14_Snow"]},
+		{ "ClassName": "TTC_M110",		"MaxPriceThreshold":10000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M110_Black"]}
+	]
+}

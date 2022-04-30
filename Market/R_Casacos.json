@@ -1,0 +1,27 @@
+{
+	"m_Version": 9,
+	"DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SWEATERS & #STR_EXPANSION_MARKET_CATEGORY_HOODIES",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "sweater_gray","MaxPriceThreshold": 40,"MinPriceThreshold": 20,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": ["sweater_blue",
+			"sweater_red",
+			"sweater_green",
+			"EXD_MilitarySweater_Black",
+			"EXD_MilitarySweater_Jade",
+			"EXD_MilitarySweater_Khaki",
+			"EXD_MilitarySweater_Olive",
+			"EXD_MilitarySweater_Tan",
+			"EXD_MilitarySweater_White",
+			"EXD_MilitarySweater_Sand"
+			],"Variants": []},
+		{ "ClassName": "hoodie_blue","MaxPriceThreshold": 60,"MinPriceThreshold": 30,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["hoodie_black",
+			"hoodie_brown",
+			"hoodie_grey",
+			"hoodie_red",
+			"hoodie_green"
+			]
+		}
+	]
+}

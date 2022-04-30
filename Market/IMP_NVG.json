@@ -1,0 +1,14 @@
+{
+	"m_Version": 9,
+	"DisplayName": "Visão Noturna",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "IMP_NVG_GPNVG_18_Black",			"MaxPriceThreshold": 13000,	"MinPriceThreshold": 13000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_NVG_GPNVG_18_Green",			"MaxPriceThreshold": 13000,	"MinPriceThreshold": 13000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_NVG_GPNVG_18_Tan",				"MaxPriceThreshold": 13000,	"MinPriceThreshold": 13000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_NVG_N15",						"MaxPriceThreshold": 13000,	"MinPriceThreshold": 13000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []}
+	]
+}
+

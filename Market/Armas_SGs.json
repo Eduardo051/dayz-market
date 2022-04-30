@@ -1,0 +1,15 @@
+{
+	"m_Version": 9,
+	"DisplayName": "3 - SG's",
+	"Icon": "Shotgun",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "mp133shotgun",	"MaxPriceThreshold": 1000,"MinPriceThreshold": 500,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "izh43shotgun",	"MaxPriceThreshold": 1800,"MinPriceThreshold": 900,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "saiga",			"MaxPriceThreshold": 18000,"MinPriceThreshold": 1500,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": ["saiga_bttstck","mag_saiga_8rnd"],"Variants": []},
+		{ "ClassName": "TTC_Mossberg",	"MaxPriceThreshold": 3000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_Maverick",	"MaxPriceThreshold": 4000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_Raptr",		"MaxPriceThreshold": 30000,"MinPriceThreshold":10000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []}
+	]
+}

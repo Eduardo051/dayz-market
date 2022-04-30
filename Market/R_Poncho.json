@@ -1,0 +1,17 @@
+{
+	"m_Version": 9,
+	"DisplayName": "Ponchos",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "EXD_Poncho_Black","MaxPriceThreshold": 200,"MinPriceThreshold": 100,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["EXD_Poncho_Jade",
+			"EXD_Gear_Poncho_Khaki",
+			"EXD_Gear_Poncho_Olive",
+			"EXD_Gear_Poncho_Tan",
+			"EXD_Gear_Poncho_White",
+			"EXD_Gear_Poncho_Sand"
+			]
+		}
+	]
+}

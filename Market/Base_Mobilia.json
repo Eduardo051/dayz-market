@@ -1,0 +1,24 @@
+{
+	"m_Version": 9,
+	"DisplayName": "Armazenamento",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 100.0,
+	"Items": [
+		{ "ClassName": "PB_Caixa_Militar1","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "PB_Caixa_Militar2","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "PB_Caixa_Militar_Lona","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "PB_Caixa_Militar_Fita","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "PB_Caixa_Militar_Atomic","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "M_Kit_Gun_Rack","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "M_Kit_Gun_Wall","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "M_Kit_Shelf","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "M_Kit_WorkBenchTable","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "M_Kit_Medical_Bag","MaxPriceThreshold":2000,"MinPriceThreshold": 2000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "M_Kit_Fridge","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "M_Kit_Gas_Stove","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "M_Kit_Gun_Cabinet","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["M_Kit_Gun_Rack_Green"]},
+		{ "ClassName": "M_Kit_Gun_Rack_Tan","MaxPriceThreshold":5000,"MinPriceThreshold": 5000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []}
+	]
+}
+

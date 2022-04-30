@@ -1,0 +1,17 @@
+{
+	"m_Version": 9,
+	"DisplayName": "Botas",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "IMP_Boots_Lowa_Desert",									"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Boots_Lowa_Black",									"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Boots_Lowa_Green",									"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Boots_Lowa_UCP",									"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Boots_Lowa_NWU",									"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Boots_Lowa_EMR",									"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Boots_Lowa_MARPAT",									"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []}
+	]
+}
+

@@ -1,0 +1,34 @@
+{
+	"m_Version": 9,
+	"DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GLOVES",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "EXD_Fingerless_Gloves_Black","MaxPriceThreshold": 10,"MinPriceThreshold": 5,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["EXD_Fingerless_Gloves_Jade",
+			"EXD_Fingerless_Gloves_Khaki",
+			"EXD_Fingerless_Gloves_Olive",
+			"EXD_Fingerless_Gloves_Tan",
+			"EXD_Fingerless_Gloves_White",
+			"EXD_Fingerless_Gloves_Sand"]},
+		{ "ClassName": "surgicalgloves_blue","MaxPriceThreshold": 10,"MinPriceThreshold": 5,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["surgicalgloves_lightblue",
+			"surgicalgloves_green",
+			"surgicalgloves_white"]},
+		{ "ClassName": "workinggloves_yellow","MaxPriceThreshold": 50,"MinPriceThreshold": 25,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["workinggloves_black",
+			"workinggloves_beige",
+			"workinggloves_brown"]},
+		{ "ClassName": "EXD_Tactical_Gloves_Olive","MaxPriceThreshold": 70,"MinPriceThreshold": 35,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["EXD_Tactical_Gloves_Black",
+			"EXD_Tactical_Gloves_Jade",
+			"EXD_Tactical_Gloves_Khaki",
+			"EXD_Tactical_Gloves_Olive",
+			"EXD_Tactical_Gloves_Tan",
+			"EXD_Tactical_Gloves_White",
+			"EXD_Tactical_Gloves_Sand",
+			"tacticalgloves_beige",
+			"tacticalgloves_green"]},
+		{ "ClassName": "omnogloves_gray","MaxPriceThreshold": 80,"MinPriceThreshold": 40,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["omnogloves_brown"]},{"ClassName": "nbcglovesgray","MaxPriceThreshold": 130,"MinPriceThreshold": 65,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": [
+			"nbcglovesyellow"
+			]
+		}
+	]
+}

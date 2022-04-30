@@ -1,0 +1,19 @@
+{
+	"m_Version": 9,
+	"DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BELTS",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "civilianbelt","MaxPriceThreshold": 200,"MinPriceThreshold": 100,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "militarybelt","MaxPriceThreshold": 200,"MinPriceThreshold": 100,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "EXD_MVS_Belt_Black","MaxPriceThreshold": 200,"MinPriceThreshold": 100,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["EXD_MVS_Belt_Jade",
+			"EXD_MVS_Belt_Khaki",
+			"EXD_MVS_Belt_Olive",
+			"EXD_MVS_Belt_Tan",
+			"EXD_MVS_Belt_White",
+			"EXD_MVS_Belt_Sand"
+			]
+		}
+	]
+}

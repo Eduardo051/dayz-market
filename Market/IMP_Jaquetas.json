@@ -1,0 +1,18 @@
+{
+	"m_Version": 9,
+	"DisplayName": "Jaquetas",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "IMP_Jacket_TacticalShirt_EMR",		"MaxPriceThreshold": 2000,	"MinPriceThreshold": 2000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["IMP_Jacket_TacticalShirt_NWU",
+			"IMP_Jacket_TacticalShirt_UCP",
+			"IMP_Jacket_TacticalShirt_MARPAT"]},
+		{ "ClassName": "IMP_Jacket_M65_EMR",				"MaxPriceThreshold": 2000,	"MinPriceThreshold": 2000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["IMP_Jacket_M65_UCP",
+			"IMP_Jacket_M65_NWU",
+			"IMP_Jacket_M65_MARPAT"]},
+		{ "ClassName": "IMP_Jacket_Raincoat",				"MaxPriceThreshold": 2000,	"MinPriceThreshold": 2000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_Jacket_USMC_WD",				"MaxPriceThreshold": 2000,	"MinPriceThreshold": 2000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["IMP_Jacket_USMC_Desert"]}
+	]
+}
+

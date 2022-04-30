@@ -1,0 +1,16 @@
+{
+	"m_Version": 9,
+	"DisplayName": "Máscaras",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{ "ClassName": "IMP_GP7M2_Mask",			"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_M04Mask",				"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "IMP_M79Mask_Black",			"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["IMP_M79Mask_Blue",
+			"IMP_M79Mask_Green",
+			"IMP_M79Mask_Yellow"]},
+		{ "ClassName": "IMP_RSH4Mask",				"MaxPriceThreshold": 3000,	"MinPriceThreshold": 3000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []}
+	]
+}
+

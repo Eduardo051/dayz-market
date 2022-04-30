@@ -1,0 +1,12 @@
+{
+	"m_Version": 9,
+	"DisplayName": "Base-Build",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "BBP_Blueprint","MaxPriceThreshold": 20000,"MinPriceThreshold": 20000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []
+		}
+	]
+}
