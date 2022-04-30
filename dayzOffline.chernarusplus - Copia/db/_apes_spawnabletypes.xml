@@ -1,0 +1,88 @@
+<spawnabletypes>
+	<damage min="0.1" max="0.2" />
+	<type name="APES_m300">
+		<attachments chance="1.00">
+			<item name="APES_m300_Mag7Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_Ruger">
+		<attachments chance="1.00">
+			<item name="APES_Ruger_Mag7Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_Anzio">
+		<attachments chance="1.00">
+			<item name="APES_Anzio_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_AnzioRed">
+		<attachments chance="1.00">
+			<item name="APES_Anzio_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_Beowulf_Tan">
+		<attachments chance="1.00">
+			<item name="APES_BeowulfMagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_Beowulf_green">
+		<attachments chance="1.00">
+			<item name="APES_BeowulfMagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_M200">
+		<attachments chance="1.00">
+			<item name="APES_M200_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_M56">
+		<attachments chance="1.00">
+			<item name="APES_M56_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_M100">
+		<attachments chance="1.00">
+			<item name="APES_M100_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_MCXSpear">
+		<attachments chance="1.00">
+			<item name="APES_MCXSpearMagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_PGM">
+		<attachments chance="1.00">
+			<item name="APES_PGM_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_XM2010_Black">
+		<attachments chance="1.00">
+			<item name="APES_XM2010_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_XM2010_Blue">
+		<attachments chance="1.00">
+			<item name="APES_XM2010_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_XM2010_Tan">
+		<attachments chance="1.00">
+			<item name="APES_XM2010_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_AKZenit_Black">
+		<attachments chance="1.00">
+			<item name="APES_AKZenit_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_Delta_Black">
+		<attachments chance="1.00">
+			<item name="APES_Delta_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="APES_Delta_Tan">
+		<attachments chance="1.00">
+			<item name="APES_Delta_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
