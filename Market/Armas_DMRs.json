@@ -10,9 +10,9 @@
 		{ "ClassName": "TTC_Beowulf",	"MaxPriceThreshold":90000,"MinPriceThreshold":90000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
 		{ "ClassName": "TTC_M82",		"MaxPriceThreshold":320000,"MinPriceThreshold":320000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M82_Tan"]},
 		{ "ClassName": "TTC_M14",		"MaxPriceThreshold":40000,"MinPriceThreshold":40000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "TTC_MRAD",		"MaxPriceThreshold":130000,"MinPriceThreshold":150000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "TTC_MRAD",		"MaxPriceThreshold":130000,"MinPriceThreshold":130000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
 		{ "ClassName": "TTC_M14_Camo",	"MaxPriceThreshold":40000,"MinPriceThreshold":40000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M14_Snow"]},
 		{ "ClassName": "TTC_M110",		"MaxPriceThreshold":70000,"MinPriceThreshold":70000,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_M110_Black"]},
-		{ "ClassName": "TTC_GEVAR43",	"MaxPriceThreshold":150000,	"MinPriceThreshold":10000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_GEVAR43_Green",	"TTC_GEVAR43_Tan",	"TTC_GEVAR43_silver"]}
+		{ "ClassName": "TTC_GEVAR43",	"MaxPriceThreshold":150000,	"MinPriceThreshold":150000,	"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["TTC_GEVAR43_Green",	"TTC_GEVAR43_Tan",	"TTC_GEVAR43_silver"]}
 	]
 }
