@@ -7,7 +7,7 @@
 	"Items": [
 		{"ClassName": "AmmoBox_00buck_10rnd",			"MaxPriceThreshold": 80,"MinPriceThreshold": 40,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": [] },
 		{"ClassName": "AmmoBox_12gaslug_10rnd",			"MaxPriceThreshold": 80,"MinPriceThreshold": 40,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": [] },
-		{"ClassName": "AmmoBox_12garubberslug_10rnd",	"MaxPriceThreshold": 64,"MinPriceThreshold": 32,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": [] },
+		{"ClassName": "AmmoBox_12garubberslug_10rnd",	"MaxPriceThreshold": 80,"MinPriceThreshold": 32,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": [] },
 		{"ClassName": "AmmoBox_22_50rnd",				"MaxPriceThreshold": 160,"MinPriceThreshold": 80,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": [] },
 		{"ClassName": "AmmoBox_308win_20rnd",			"MaxPriceThreshold": 64,"MinPriceThreshold": 32,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": [ "ammobox_308wintracer_20rnd"] },
 		{"ClassName": "AmmoBox_308wintracer_20rnd",		"MaxPriceThreshold": 128,"MinPriceThreshold": 64,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": [] },
