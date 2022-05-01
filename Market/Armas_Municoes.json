@@ -5,9 +5,9 @@
 	"Color": "FBFCFEFF",
 	"InitStockPercent": 75.0,
 	"Items": [
-		{ "ClassName": "Ammo_12gapellets",		"MaxPriceThreshold": 50,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "Ammo_12garubberslug",	"MaxPriceThreshold": 50,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
-		{ "ClassName": "Ammo_12gaslug",			"MaxPriceThreshold": 50,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "Ammo_12gapellets",		"MaxPriceThreshold": 8,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "Ammo_12garubberslug",	"MaxPriceThreshold": 8,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
+		{ "ClassName": "Ammo_12gaslug",			"MaxPriceThreshold": 8,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
 		{ "ClassName": "Ammo_22",				"MaxPriceThreshold": 50,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
 		{ "ClassName": "Ammo_308win",			"MaxPriceThreshold": 50,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": ["ammo_308wintracer"]},
 		{ "ClassName": "Ammo_308wintracer",		"MaxPriceThreshold": 50,"MinPriceThreshold": 50,"SellPricePercent": -1,"MaxStockThreshold": 1,"MinStockThreshold": 1,"QuantityPercent": -1,"SpawnAttachments": [],"Variants": []},
